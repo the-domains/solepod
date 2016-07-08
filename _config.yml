@@ -1,0 +1,14 @@
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 1
+  lightness: 0.322072
+  rhythmicContrast: 1
+  saturation: 0.274805
+layout_spectrum: 0.585586
+name: 'SOLEPOD '
+typography_spectrum: 0.045045
